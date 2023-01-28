@@ -1,3 +1,4 @@
+![logo](https://github.com/Aniket-Suthar/Aniket-Suthar/blob/main/new%20pp.png)
 <h1 align="center">Hi 👋, I'm Aniket Suthar</h1>
 <h3 align="center">A passionate Computer Engineering Sophomore from India</h3>
 
