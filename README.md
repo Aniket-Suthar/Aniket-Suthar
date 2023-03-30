@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **Javascript, DSA in C++**
 
 - 🤝 Competitive Programmer at **@Codeforces,@CodeChef**
+- 
+- 🤝 Currently working on **MERN Stack Dev**
 - ![](https://komarev.com/ghpvc/?username=Aniket-Suther&style=plastic&color=red)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
