@@ -4,7 +4,7 @@
 
 - 🔭 I’m a CSE Sophomore at **@PDEU , Gandhinagar**
 
-- 🌱 I’m currently learning **Javascript, DSA in C++**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 🤝 Competitive Programmer at **@Codeforces,@CodeChef**
 
