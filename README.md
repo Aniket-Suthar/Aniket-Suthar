@@ -40,6 +40,6 @@
 </a> 
   </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket-suthar&show_icons=true&locale=en&theme=dark" alt="aniket-suthar" /></p>
+
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=aniket-suthar&theme=dark" /></p>
