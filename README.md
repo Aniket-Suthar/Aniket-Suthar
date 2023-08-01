@@ -40,6 +40,6 @@
 </a> 
   </p>
 
-
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniket-Suthar&show_icons=true&theme=gruvbox)
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=aniket-suthar&theme=dark" /></p>
