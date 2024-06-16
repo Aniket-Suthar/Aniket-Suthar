@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Aniket Suthar </h1>
-🎯A passionate Computer Science Student @PDEU'25<br><br>💻 I'm skilled in programming with Javascript, C++ and Python. 🚀 Building backends is my passion!<br><br> 💻✨I have built several projects using the MERN stack, MySQL, Restful APIs, OpenAI API, Python, Langchain and also skilled in using tools like Docker <br><br>📚 I also have foundational knowledge of DSA and OOPS. 🧑‍💻Currently learning AI/ML .<br><br>🤖 Want to explore more about AI/ML and Cloud Computing.
+🎯A passionate Computer Science Student @PDEU'25<br><br>💻 I'm skilled in programming with Javascript, C++ and Python. 🚀 Building backends is my passion!<br><br> 💻✨I have built several projects using the MERN stack, MySQL, Restful APIs, OpenAI API, Python, Langchain and also skilled in using tools like Docker <br><br>📚 I also have foundational knowledge of DSA and OOPS. 🧑‍💻Currently Golang.<br><br>🤖 Want to explore more about AI/ML and Cloud Computing.
 <br><br>
 🖥 You can check all my projects <a href="https://github.com/Aniket-Suthar?tab=repositories" style="display:inline-block;padding:10px 20px;background-color:#337ab7;color:#ffffff;text-decoration:none;border-radius:5px;">Click me</a>
 <br><br>
